@@ -1,3 +1,5 @@
+<p align="center"><a href="http://lihua1108.com" target="_blank" rel="noopener noreferrer"><img width="100" src="https://github.com/WGinit/Assets/blob/master/project/images/wxapp-publish/logo.png" alt="wxapp-publish"></a></p>
+
 # wxapp-publish
 
 微信小程序自动化发布版本辅助工具
