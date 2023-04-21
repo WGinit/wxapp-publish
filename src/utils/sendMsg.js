@@ -1,0 +1,1 @@
+import*as axios from"axios";export default function sendMsg(o){var s=(global.__wxapp_publish_config__||{})["webHook"];s&&axios.default.post(s,o).then(o=>{console.log("发送群通知结果: "+o.status)}).catch(o=>{console.error(o)})}

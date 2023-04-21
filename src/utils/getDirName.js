@@ -1,0 +1,1 @@
+export default function getDirName(e){let t=new URL(".",e.url).pathname;return t=t.replace("/","")}

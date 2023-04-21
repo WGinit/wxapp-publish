@@ -1,0 +1,1 @@
+export default async function waitForFunctionImage(t,o){await t.waitForFunction(function(t){try{var o=document.querySelectorAll(t);return console.log(t,o),!!(o&&o.getAttribute("src")&&o.complete)}catch(t){throw console.log("query error----",t),t}},{},o)}

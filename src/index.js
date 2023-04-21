@@ -1,0 +1,1 @@
+import wxappPublish from"./publish.js";export default{wxappPublish:wxappPublish};export{wxappPublish};

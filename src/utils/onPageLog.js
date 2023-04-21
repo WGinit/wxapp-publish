@@ -1,0 +1,1 @@
+import chalk from"chalk";export default function onPageLog(o){o.on("console",e=>{for(let o=0;o<e.args().length;++o)console.log(chalk.green(e.text()))})}
